@@ -1,0 +1,160 @@
+body{
+    background-image: url(lib4.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 900px;
+}
+.A1
+{
+    width: 100%;
+    height: 100px;
+    color: wheat;
+    text-align: center;
+    text-shadow: 4px 4px 2px red;
+    text-decoration: underline red;
+    
+}
+.A2
+{
+    width: 500px;
+    height: 500px;
+    font-size: 25px;
+    font-weight:bold ;
+    margin-left: 800px;
+    margin-top: 200px;
+    color: chartreuse;
+    
+}
+.A3
+{
+    width: 300px;
+    height: 400px;
+    
+}
+#s
+{
+    box-shadow: 2px 2px 3px red;
+}
+#s1
+{
+    width: 60px;
+    height: 35px;
+    background-color: chartreuse;
+    border-radius: 30px 30px 30px 30px;
+    border: none;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+#R
+{
+    font-size: 35px;
+    width: 100%;
+    height: 100px;
+    color: wheat;
+    text-align: center;
+    text-shadow: 4px 4px 2px red;
+    text-decoration: underline red;
+
+}
+#w
+{
+    width: 500px;
+    height: 300px;
+    float: right;
+}
+.W1
+{
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 3px red;
+}
+.W2
+{
+    font-size: 25px;
+    font-weight: bold;
+    color:chartreuse; 
+}
+#i
+{
+    width: 100px;
+    height: 30px;
+    float: center;
+    border-radius: 10px 10px 10px 10px;
+    background-color:chartreuse; 
+    color: blue;
+    
+}
+#D
+{
+    
+        width: 100%;
+        height: 100px;
+        color: wheat;
+        text-align: center;
+        text-shadow: 4px 4px 2px red;
+        text-decoration: underline red;
+}
+#D1
+{
+    width: 400px;
+    height: 20px; 
+    background: transparent;
+    border-right: red solid 3px;
+    border-bottom: red solid 3px;
+    border-left: 0px;
+    border-top: 0px;
+    outline: none;
+    
+}
+fieldset
+{
+    width: 500px;
+    height: 100px;
+    
+}
+#Le
+{
+    font-size: 20px;
+    color:chartreuse;
+}
+#D2
+{
+    width: 100px;
+    height: 25px;
+    background-color:chartreuse ;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    color: blue;
+    
+}
+#Ta
+{
+    width: 400px;
+    height: 200px;
+    margin-left: 600px;
+}
+.Ca
+{
+    font-size: 20px;
+    color:chartreuse;
+    font-weight: bold;
+}
+#D3
+{
+    width: 150px;
+    height: 25px;
+    background-color:chartreuse ;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    color: blue;
+}
+#D4
+{
+    width: 100px;
+    height: 25px;
+    background-color:chartreuse ;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    color: blue; 
+}

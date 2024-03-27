@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome To Library management System</title>
+    <link rel="stylesheet" href="C.css">
+	<script>  
+		function s1() {  
+			var x = document.getElementById("s").value;
+			document.getElementById("s").value="";
+			if(x==1)
+			{
+				window.open("ABD1.html");
+			}
+			else if(x==2)
+			{
+				window.open("SBD2.html");
+			}
+			else if(x==3)
+			{
+				window.open("UBD3.html");
+			}
+			else if(x==4)
+			{
+				window.open("RBD4.html");
+			}
+			else
+			{
+				alert("Enter valid option");  
+			}
+		}  
+	</script>
+</head>
+<body>
+	<div class="A1"><center><h1>Welcome To Library management System</h1></center></div>
+	<div class="A2">
+		<ul><li>Enter 1 to Add Book</li>
+        <br>
+        <li>Enter 2 to Search Book By Title</li>
+        <br>
+        <li>Enter 3 to Update Book</li>
+        <br>
+        <li>Enter 4 to remove Book</li>
+		<br>
+	<div class="A3">
+		<input id="s" placeholder="Enter Your choice" type="number"></input>
+        <input id="s1" type="submit" value="Go" onClick="s1()">
+        </div>
+		</ul></div>
+</body>
+</html>
